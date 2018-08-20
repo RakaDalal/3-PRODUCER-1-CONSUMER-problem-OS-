@@ -14,5 +14,6 @@ How to run the program:
 1.Open a terminal
 2.Change the working directory to the folder containing the program.
 	1. Type "make compile" to compile the program
+	
 	2. Type "make run" to run the program
 	
